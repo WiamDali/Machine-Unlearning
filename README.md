@@ -1,4 +1,4 @@
-# <center> Machine-Unlearning 💾🪓
+# <center> Machine-Unlearning  💾 🪓
 
 Can we make a deep learning model ‘forget’ a subset of its training data? Aside from being scientifically interesting, achieving this goal of deep machine unlearning is increas- ingly important and relevant from a practical perspective. Regulations such as EU’s General Data Protection Regula- tion (Mantelero, 2013) stipulate that individuals can request to have their data ‘deleted’ (the ‘right to be forgotten’). Nowadays, given the ubiquity of deep learning systems in a wide range of applications, including computer vision, natu- ral language processing, speech recognition and healthcare, allowing individuals to exercise this right necessitates deep unlearning algorithms. This is the most common motivating scenario for developing unlearning algorithms.
 However, unlearning has several additional important ap-
